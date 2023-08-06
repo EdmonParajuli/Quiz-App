@@ -112,12 +112,12 @@ let questions = [
     ],
   },
   {
-    question: "What does the HTML tag '<a>' stand for?",
+    question: "Which continent is known as the 'Dark Continent'?",
     answers: [
-      { text: "Anchor", correct: true },
-      { text: "Action", correct: false },
-      { text: "Attribute", correct: false },
-      { text: "Article", correct: false },
+      { text: "Asia", correct: false },
+      { text: "Africa", correct: true },
+      { text: "Europe", correct: false },
+      { text: "Australia", correct: false },
     ],
   },
   {
