@@ -85,6 +85,15 @@ let questions = [
     ],
   },
   {
+    question: "Which programming language is known for its readability and is often referred to as 'the beautiful language'?",
+    answers: [
+      { text: "Python", correct: true },
+      { text: "JavaScript", correct: false },
+      { text: "Java", correct: false },
+      { text: "C++", correct: false },
+    ],
+  },
+  {
     question: "What does HTML stand for?",
     answers: [
       { text: "Hyper Text Markup Language", correct: true },
@@ -103,12 +112,12 @@ let questions = [
     ],
   },
   {
-    question: "Who is the author of the 'Harry Potter' book series?",
+    question: "What does the HTML tag '<a>' stand for?",
     answers: [
-      { text: "J.R.R. Tolkien", correct: false },
-      { text: "J.K. Rowling", correct: true },
-      { text: "George R.R. Martin", correct: false },
-      { text: "Stephen King", correct: false },
+      { text: "Anchor", correct: true },
+      { text: "Action", correct: false },
+      { text: "Attribute", correct: false },
+      { text: "Article", correct: false },
     ],
   },
   {
