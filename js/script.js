@@ -85,15 +85,6 @@ let questions = [
     ],
   },
   {
-    question: "Which sport uses a shuttlecock?",
-    answers: [
-      { text: "Tennis", correct: false },
-      { text: "Badminton", correct: true },
-      { text: "Squash", correct: false },
-      { text: "Table Tennis", correct: false },
-    ],
-  },
-  {
     question: "What does HTML stand for?",
     answers: [
       { text: "Hyper Text Markup Language", correct: true },
